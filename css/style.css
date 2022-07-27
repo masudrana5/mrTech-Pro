@@ -7,6 +7,9 @@
 .mr-slide-caption-mb{
    margin-bottom: 200px;
 }
+.mr-success-bg{
+   background-color: #F4FAFD;
+}
 @media screen and (max-width: 768px) {
    .mr-slide-caption-mb{
       margin-bottom: auto;
