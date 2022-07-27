@@ -1,3 +1,9 @@
 .mr-text-color{
    color: #4a4a4a;
 }
+.mr-slide-height{
+   min-height: 90vh;
+}
+.mr-slide-caption-mb{
+   margin-bottom: 200px;
+}
