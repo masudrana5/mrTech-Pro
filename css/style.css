@@ -7,3 +7,13 @@
 .mr-slide-caption-mb{
    margin-bottom: 200px;
 }
+@media screen and (max-width: 768px) {
+   .mr-slide-caption-mb{
+      margin-bottom: auto;
+   }
+   .mr-text-overflow{
+      text-overflow: ellipsis;
+      overflow: hidden;
+
+   }
+}
