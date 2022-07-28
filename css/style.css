@@ -10,3 +10,9 @@
 .mr-success-bg{
    background-color: #F4FAFD;
 }
+.mr-width-icon{
+   width: 50px;
+}
+.mr-height-icon{
+   height: 50px;
+}
